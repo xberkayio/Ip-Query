@@ -10,7 +10,7 @@ This is a simple tool for querying information about IP addresses using the [ip-
 ## İnstallation
 
 ```bash
-git clone https://github.com/xberkay-o/Ip-Query
+git clone https://github.com/xberkayio/Ip-Query
 cd IpQuery/IpQuery-python
 ```
 ```bash
