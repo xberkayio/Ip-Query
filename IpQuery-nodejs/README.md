@@ -15,7 +15,7 @@ This script allows you to query IP information from ip-api.com, and save the obt
 ## Usage
 
 ```bash
-git clone https://github.com/xberkay-o/Ip-Query/
+git clone https://github.com/xberkayio/Ip-Query/
 ```
 ```bash
 cd Ip-Query/nodejs
