@@ -10,7 +10,7 @@ This is a simple tool for querying information about IP addresses using the [ip-
 ## Usage for python
 
 ```bash
-git clone https://github.com/xberkay-o/Ip-Query
+git clone https://github.com/xberkayio/Ip-Query
 cd IpQuery/IpQuery-python
 ```
 ```bash
@@ -23,7 +23,7 @@ python ipquery.py
 ## Usage for nodejs
 
 ```bash
-git clone https://github.com/xberkay-o/Ip-Query/
+git clone https://github.com/xberkayio/Ip-Query/
 ```
 ```bash
 cd Ip-Query/nodejs
